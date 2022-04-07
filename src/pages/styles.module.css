@@ -1,0 +1,17 @@
+* {
+  margin: 0px auto;
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid;
+  background-color: blanchedalmond;
+}
+
+.header {
+  padding: 2rem;
+  width: 90%;
+  border: 1px solid;
+  text-align: center;
+}
